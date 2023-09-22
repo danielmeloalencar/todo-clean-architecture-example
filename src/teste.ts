@@ -4,6 +4,6 @@ export class Teste {
   }
 
   public getTeste (): string {
-    return 'Teste'
+    return 'Teste2'
   }
 }

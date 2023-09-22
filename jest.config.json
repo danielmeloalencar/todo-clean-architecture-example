@@ -1,0 +1,15 @@
+{
+    "verbose": true,
+    "roots": [
+      "<rootDir>/src"
+    ],
+    "coverageDirectory": "coverage",
+    "collectCoverageFrom": [
+      "<rootDir>/src/**/*.{ts,tsx}"
+    ],
+    "transform": {
+      "^.+\\.tsx?$": "ts-jest"
+    },
+    "testEnvironment": "node"
+
+}
